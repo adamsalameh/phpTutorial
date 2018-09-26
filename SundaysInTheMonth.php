@@ -16,5 +16,5 @@ while ($begin <= $end)
 
     $begin->modify('+1 day');
 }
-    
+  
 ?>
