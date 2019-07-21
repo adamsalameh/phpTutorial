@@ -8,5 +8,5 @@ if (ctype_digit(strval($input))) {
 } elseif (is_string($input)) {
     echo "string";
 }
-     var_dump((float)$input);
+var_dump((float)$input);
      
