@@ -13,3 +13,4 @@ echo "Hours until new year : $hours\n";
 echo "Minutes until new year : $minutes\n";
 echo "Seconds until new year : $seconds\n";
 echo "Days:Hours:Minutes:Seconds ".$remain->days.":".$remain->h.":".$remain->i.":".$remain->s;
+ 
